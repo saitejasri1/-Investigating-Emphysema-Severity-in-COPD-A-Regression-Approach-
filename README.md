@@ -1,3 +1,5 @@
+<img width="561" alt="image" src="https://github.com/saitejasri1/-Investigating-Emphysema-Severity-in-COPD-A-Regression-Approach-/assets/56059838/3544ff72-b3c4-4a75-8753-b8d4718c0687">
+
 🌬️ Investigating Emphysema Severity in COPD: A Regression Approach 📈
 
 Welcome to the COPD Regression Analysis Project! This repository is dedicated to a comprehensive regression analysis of the COPD dataset, aimed at uncovering the variables associated with the percentage of emphysema in the lungs.
